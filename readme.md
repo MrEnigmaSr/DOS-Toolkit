@@ -11,11 +11,11 @@ You can run it from anywhere. <br><br>
 
 ### Helpful
 - something for fixing filesystem perms <br>
-- symlink assist <br><br>
+- symlink assist <br>
 
 ### Situational
 - cmd /c "echo off | clip" _(clear clipboard)_ <br>
-- xcopy *.shn *.wav _(mass replace file extensions)_ <br><br>
+- xcopy *.shn *.wav _(mass replace file extensions)_ <br>
 
 ## OTHER IDEAS
 - move to powershell and incorporate all the best powershell commands such as debloat, ai removal, MAS <br>
